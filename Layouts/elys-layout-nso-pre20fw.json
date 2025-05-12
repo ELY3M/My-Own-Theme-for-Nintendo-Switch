@@ -1,0 +1,129 @@
+{
+	"PatchName": "Own Homescreen - black - all buttons",
+	"AuthorName": "ELY M.",
+	"TargetName": "ResidentMenu.szs",
+	"ID": "updated_0834e9c1-d3a1-4a9e-8013-2da70130a7fd",
+	"Files": [
+		{
+			"FileName": "blyt/RdtBase.bflyt",
+			"Patches": [
+				{
+					"PaneName": "L_BtnLR",
+					"Visible": true
+				},
+				{
+					"PaneName": "P_PictBase",
+					"ColorTL": "FF000000",
+					"ColorTR": "FF000000",
+					"ColorBL": "FF000000",
+					"ColorBR": "FF000000"
+				}
+			]
+		},
+		{
+			"FileName": "blyt/RdtBtnLR.bflyt",
+			"Patches": [
+				{
+					"PaneName": "P_PictBase",
+					"ColorTL": "FF000000",
+					"ColorTR": "FF000000",
+					"ColorBL": "FF000000",
+					"ColorBR": "FF000000"
+				},
+				{
+					"PaneName": "P_Effect",
+					"ColorTL": "FF000000",
+					"ColorTR": "FF000000",
+					"ColorBL": "FF000000",
+					"ColorBR": "FF000000"
+				}
+			]
+		},
+		{
+			"FileName": "blyt/RdtBtnNtf.bflyt",
+			"Patches": [
+				{
+					"PaneName": "P_PictBase",
+					"ColorTL": "FF000000",
+					"ColorTR": "FF000000",
+					"ColorBL": "FF000000",
+					"ColorBR": "FF000000"
+				}
+			]
+		},
+		{
+			"FileName": "blyt/RdtBtnShop.bflyt",
+			"Patches": [
+				{
+					"PaneName": "P_PictBase",
+					"ColorTL": "FF000000",
+					"ColorTR": "FF000000",
+					"ColorBL": "FF000000",
+					"ColorBR": "FF000000"
+				}
+			]
+		},
+		{
+			"FileName": "blyt/RdtBtnCtrl.bflyt",
+			"Patches": [
+				{
+					"PaneName": "P_PictBase",
+					"ColorTL": "FF000000",
+					"ColorTR": "FF000000",
+					"ColorBL": "FF000000",
+					"ColorBR": "FF000000"
+				}
+			]
+		},
+		{
+			"FileName": "blyt/RdtBtnSet.bflyt",
+			"Patches": [
+				{
+					"PaneName": "P_PictBase",
+					"ColorTL": "FF000000",
+					"ColorTR": "FF000000",
+					"ColorBL": "FF000000",
+					"ColorBR": "FF000000"
+				}
+			]
+		},
+		{
+			"FileName": "blyt/RdtBtnPvr.bflyt",
+			"Patches": [
+				{
+					"PaneName": "P_PictBase",
+					"ColorTL": "FF000000",
+					"ColorTR": "FF000000",
+					"ColorBL": "FF000000",
+					"ColorBR": "FF000000"
+				}
+			]
+		},
+		{
+			"FileName": "blyt/RdtBtnPow.bflyt",
+			"Patches": [
+				{
+					"PaneName": "P_PictBase",
+					"ColorTL": "FF000000",
+					"ColorTR": "FF000000",
+					"ColorBL": "FF000000",
+					"ColorBR": "FF000000"
+				}
+			]
+		},
+		{
+			"FileName": "blyt/RdtBtnFullLauncher.bflyt",
+			"Patches": [
+				{
+					"PaneName": "P_PictBase"
+				},
+				{
+					"PaneName": "N_Tip"
+				},
+				{
+					"PaneName": "L_Balloon"
+				}
+			]
+		}
+	]
+}
